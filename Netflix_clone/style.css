@@ -1,0 +1,2138 @@
+.www-netflix-com-by {
+    display: flex;
+    flex-direction: column;
+    width: 1846px;
+    align-items: flex-start;
+    position: relative;
+    background-color: #000000;
+  }
+  
+  .www-netflix-com-by .div {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 4286.53px;
+  }
+  
+  .www-netflix-com-by .div-2 {
+    display: flex;
+    width: 1846px;
+    padding: 0px 0px 6.1e-5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .div-default-ltr {
+    display: flex;
+    min-height: 700px;
+    align-items: center;
+    justify-content: center;
+    padding: 284.5px 514.58px 190.5px 514.56px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 1846px;
+    align-items: flex-start;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .overlap-group-wrapper {
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    width: 100%;
+    flex-grow: 1;
+    overflow: hidden;
+  }
+  
+  .www-netflix-com-by .overlap-group {
+    position: relative;
+    width: 2400px;
+    height: 875px;
+    top: -175px;
+    left: -277px;
+  }
+  
+  .www-netflix-com-by .US-en {
+    position: absolute;
+    width: 2400px;
+    height: 875px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/US-en-20231106-popsignuptwoweeks-perspective-alpha-website-large-jpg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .header {
+    display: flex;
+    flex-direction: column;
+    max-width: 1184px;
+    width: 1184px;
+    align-items: flex-start;
+    padding: 24px 48px;
+    position: relative;
+    top: 214px;
+    left: 585px;
+    background-color: transparent;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-2 {
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 4px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .img {
+    position: relative;
+    flex: 0 0 auto;
+    height: 40px;
+  }
+  
+  .www-netflix-com-by .div-wrapper {
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 32px;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -95.98px;
+    margin-left: -7.98px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-3 {
+    display: inline-flex;
+    height: 32px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-4 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 807.98px;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 0px 0px;
+    padding: 0px 0px 0px 554.39px;
+    position: relative;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-5 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0px 24px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-3 {
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 32px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    position: relative;
+  }
+  
+  .www-netflix-com-by .div-4 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 32px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-6 {
+    display: inline-flex;
+    height: 32px;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-7 {
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .www-netflix-com-by .options {
+    display: inline-flex;
+    flex-direction: column;
+    min-height: 16px;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 6px 36px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-5 {
+    display: flex;
+    padding: 0px 6px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .img-2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 8px;
+    left: 12px;
+  }
+  
+  .www-netflix-com-by .button {
+    min-height: 32px;
+    justify-content: center;
+    padding: 4px 15.59px 4px 16px;
+    background-color: #e50914;
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .www-netflix-com-by .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-8 {
+    position: absolute;
+    width: 1846px;
+    height: 700px;
+    top: 175px;
+    left: 277px;
+    background-color: #00000066;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-9 {
+    display: inline-flex;
+    flex-direction: column;
+    max-width: 1184px;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    margin-left: -37px;
+    margin-right: -37px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-10 {
+    position: relative;
+    width: 890.86px;
+    height: 225px;
+  }
+  
+  .www-netflix-com-by .heading {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 23.33px 0px 23.53px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .p-default-ltr-cache {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 265.84px 0px 266.02px;
+    position: absolute;
+    top: 71px;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-11 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 123px;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .form-sign-up-or-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    max-width: 984px;
+    align-items: flex-start;
+    padding: 0px 32px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .form-sign-up-or {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .heading-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 98.33px 0px 98.53px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .p {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-12 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px 120.42px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-13 {
+    display: inline-flex;
+    max-width: 586px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-esotu {
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 56px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-14 {
+    position: relative;
+    width: 375.27px;
+    height: 56px;
+    background-color: #161616b2;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #808080b2;
+  }
+  
+  .www-netflix-com-by .label {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 242.27px 0px 0px;
+    position: absolute;
+    top: 16px;
+    left: 16px;
+  }
+  
+  .www-netflix-com-by .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .button-margin {
+    display: inline-flex;
+    flex-direction: column;
+    min-height: 56px;
+    align-items: flex-start;
+    padding: 0px 0px 0px 8px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -0.03px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .www-netflix-com-by .button-2 {
+    display: inline-flex;
+    min-height: 56px;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 24px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #e50914;
+    border-radius: 4px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .www-netflix-com-by .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-15 {
+    position: relative;
+    flex: 0 0 auto;
+    height: 24px;
+    margin-left: -0.24px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-16 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 72px 368.04px 72px 368px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-17 {
+    display: inline-flex;
+    max-width: 1184px;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    margin-left: -37px;
+    margin-right: -37px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-18 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 0px 6px 24px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .heading-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 218.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .watch-on-smart-tvs-wrapper {
+    padding: 0px 26.98px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-19 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0px 6px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-20 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 4px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+  }
+  
+  .www-netflix-com-by .image-wrapper {
+    position: absolute;
+    width: 428px;
+    height: 239px;
+    top: 84px;
+    left: 79px;
+    overflow: hidden;
+  }
+  
+  .www-netflix-com-by .image {
+    width: 480px;
+    height: 270px;
+    background-image: url(./img/image-2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .tv-png {
+    position: relative;
+    width: 585.98px;
+    height: 439.48px;
+    background-image: url(./img/tv-png.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-21 {
+    position: absolute;
+    width: 1846px;
+    height: 8px;
+    top: 587px;
+    left: 0;
+    background-color: #232323;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-22 {
+    display: inline-flex;
+    max-width: 1184px;
+    align-items: center;
+    gap: 1.95e-5px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-left: -37px;
+    margin-right: -37px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-23 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 6px 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+    z-index: 1;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-24 {
+    position: absolute;
+    width: 369px;
+    height: 208px;
+    top: 47px;
+    left: 108px;
+    overflow: hidden;
+  }
+  
+  .www-netflix-com-by .image-2 {
+    width: 480px;
+    height: 270px;
+    background-image: url(./img/image.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .device-pile-png {
+    position: relative;
+    width: 585.98px;
+    height: 439.48px;
+    background-image: url(./img/device-pile-png.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-25 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 0px 0px 24px 6px;
+    position: relative;
+    flex: 0 0 auto;
+    z-index: 0;
+  }
+  
+  .www-netflix-com-by .heading-4 {
+    align-items: flex-start;
+    padding: 0px 186.98px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .stream-unlimited-wrapper {
+    padding: 0px 78.98px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .heading-5 {
+    align-items: flex-start;
+    padding: 0px 85.98px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .send-kids-on-wrapper {
+    padding: 0px 18.98px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .send-kids-on {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 23.8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-26 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 4px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-6 {
+    position: relative;
+    width: 585.98px;
+    height: 439.48px;
+    background-image: url(./img/aaaabejkyujiidqciqmgjj8btxkykkti5jiqexltvn1ymvxyifx8b9cywoousizokneblrfthzafsylmgkmynfehwk16dmekpiicb6a3-png.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-27 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 72px 368.02px 72px 368px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-28 {
+    position: relative;
+    max-width: 1184px;
+    width: 1183.98px;
+    height: 443.48px;
+    margin-left: -37px;
+    margin-right: -37px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-29 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 0px 0px 24px 6px;
+    position: absolute;
+    top: 132px;
+    left: 592px;
+  }
+  
+  .www-netflix-com-by .download-your-shows-wrapper {
+    align-items: flex-start;
+    padding: 0px 58.98px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .download-your-shows {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-30 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 6px 0px 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .mobile-jpg {
+    position: relative;
+    width: 585.98px;
+    height: 439.48px;
+    background-image: url(./img/mobile-0819-jpg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-31 {
+    display: inline-flex;
+    min-width: 240px;
+    align-items: center;
+    padding: 10px 14px;
+    position: absolute;
+    top: 304px;
+    left: 132px;
+    background-color: #000000;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: #808080b2;
+    box-shadow: 0px 0px 32px #000000;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-32 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 16px 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .boxshot-png-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 0px 4px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .boxshot-png {
+    position: relative;
+    width: 57.14px;
+    height: 80px;
+    background-image: url(./img/boxshot-png.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-33 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 3.8px 0px 4.8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-34 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 58.84px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 15.9px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-35 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 78.84px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #0071eb;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-36 {
+    position: relative;
+    width: 48px;
+    height: 60px;
+    background-image: url(./img/div-default-ltr-cache-1q4up1i.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-37 {
+    height: 60px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-38 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 23px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .heading-6 {
+    align-items: center;
+    padding: 0px 285.89px 0px 286.08px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-39 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 45.59px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .list {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 550px;
+  }
+  
+  .www-netflix-com-by .item-heading {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 0px 932.98px 0px 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #2d2d2d;
+  }
+  
+  .www-netflix-com-by .button-3 {
+    justify-content: space-between;
+    padding: 24px;
+    align-self: stretch;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .www-netflix-com-by .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .SVG {
+    position: relative;
+    width: 36px;
+    height: 36px;
+  }
+  
+  .www-netflix-com-by .item {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 1px;
+    position: absolute;
+    top: 93px;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .button-wrapper {
+    display: flex;
+    align-items: flex-start;
+    padding: 0px 789.98px 0px 0px;
+    align-self: stretch;
+    width: 100%;
+    background-color: #2d2d2d;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .button-4 {
+    justify-content: space-between;
+    padding: 24px;
+    align-self: stretch;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 23.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .item-heading-2 {
+    padding: 0px 887.87px 0px 0px;
+    top: 186px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    background-color: #2d2d2d;
+  }
+  
+  .www-netflix-com-by .span {
+    padding: 0px 4.11px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .heading-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 1px;
+    position: absolute;
+    top: 279px;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .heading-7 {
+    display: flex;
+    align-items: flex-start;
+    padding: 0px 915.87px 0px 0px;
+    align-self: stretch;
+    width: 100%;
+    background-color: #2d2d2d;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .span-2 {
+    padding: 0px 2.11px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .item-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 1px;
+    position: absolute;
+    top: 372px;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .heading-8 {
+    display: flex;
+    align-items: flex-start;
+    padding: 0px 795.84px 0px 0px;
+    align-self: stretch;
+    width: 100%;
+    background-color: #2d2d2d;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .span-3 {
+    padding: 0px 1.14px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .SVG-2 {
+    margin-left: 0px;
+    position: relative;
+    width: 36px;
+    height: 36px;
+  }
+  
+  .www-netflix-com-by .item-heading-3 {
+    padding: 0px 850.53px 0px 0px;
+    top: 465px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    background-color: #2d2d2d;
+  }
+  
+  .www-netflix-com-by .span-4 {
+    padding: 0px 1.45px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .text-wrapper-14 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 23.6px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-40 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 100px 0px 99.98px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .heading-9 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 144.89px 0px 145.11px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-41 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px 167px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .transparent-png {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 698px;
+    left: 592px;
+    background-image: url(./img/transparent-1x1-png.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-42 {
+    position: absolute;
+    width: 1846px;
+    height: 8px;
+    top: 921px;
+    left: 0;
+    background-color: #232323;
+  }
+  
+  .www-netflix-com-by .footer {
+    display: flex;
+    flex-direction: column;
+    max-width: 1184px;
+    width: 1184px;
+    align-items: flex-start;
+    padding: 0px 48px;
+    position: absolute;
+    top: 4043px;
+    left: 283px;
+    background-color: transparent;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-43 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 244px;
+  }
+  
+  .www-netflix-com-by .overlap-group-2 {
+    position: absolute;
+    width: 1196px;
+    height: 213px;
+    top: -1px;
+    left: -60px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-44 {
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 31px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 952.71px 12px 0px;
+    position: absolute;
+    top: 0;
+    left: 12px;
+  }
+  
+  .www-netflix-com-by .questions-call-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    height: 19px;
+    align-items: flex-start;
+    padding: 0px 4.27px 0px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .questions-call {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .text-wrapper-15 {
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .www-netflix-com-by .text-wrapper-16 {
+    text-decoration: underline;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-45 {
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 186px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 0px 12px;
+    position: absolute;
+    top: 27px;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-46 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 174px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .list-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 14px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .list-2 {
+    position: relative;
+    width: 1195.98px;
+    height: 160px;
+  }
+  
+  .www-netflix-com-by .item-margin {
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .www-netflix-com-by .link-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 258.96px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .link {
+    padding: 0px 2.02px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 16px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 2px;
+  }
+  
+  .www-netflix-com-by .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .item-wrapper {
+    top: 0;
+    left: 299px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-3 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 212.28px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .link-2 {
+    padding: 0px 0.7px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 16px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 2px;
+  }
+  
+  .www-netflix-com-by .item-margin-2 {
+    top: 0;
+    left: 598px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-4 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 235.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .link-3 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 16px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 2px;
+  }
+  
+  .www-netflix-com-by .text-wrapper-18 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 13.6px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .item-margin-3 {
+    top: 0;
+    left: 897px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-5 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 202.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-4 {
+    top: 32px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-6 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 174.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-5 {
+    top: 32px;
+    left: 299px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-7 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 256.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .text-wrapper-19 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .item-margin-6 {
+    top: 32px;
+    left: 598px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-8 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 210.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 13.9px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .item-margin-7 {
+    top: 32px;
+    left: 897px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-9 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 167.15px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .link-4 {
+    padding: 0px 2.83px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 16px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 2px;
+  }
+  
+  .www-netflix-com-by .item-margin-8 {
+    top: 64px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-10 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 195.95px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .link-5 {
+    padding: 0px 2.03px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 16px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 2px;
+  }
+  
+  .www-netflix-com-by .item-margin-9 {
+    top: 64px;
+    left: 299px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-11 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 193.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-10 {
+    top: 64px;
+    left: 598px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-12 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 203.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-11 {
+    top: 64px;
+    left: 897px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-13 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 240.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-12 {
+    top: 96px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-14 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 164.03px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .link-6 {
+    padding: 0px 0.95px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 16px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 2px;
+  }
+  
+  .www-netflix-com-by .item-margin-13 {
+    top: 96px;
+    left: 299px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-15 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 150.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .text-wrapper-21 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 13.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .www-netflix-com-by .item-margin-14 {
+    top: 96px;
+    left: 598px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-16 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 217.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-15 {
+    top: 96px;
+    left: 897px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-17 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 216.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-16 {
+    top: 128px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-18 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 201.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-17 {
+    top: 128px;
+    left: 299px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-19 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 195.98px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-18 {
+    top: 128px;
+    left: 598px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-20 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 2.96px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .item-margin-19 {
+    top: 128px;
+    left: 897px;
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+    align-items: flex-start;
+    padding: 16px 0px 0px 12px;
+    position: absolute;
+  }
+  
+  .www-netflix-com-by .item-21 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 16px;
+    align-items: flex-start;
+    gap: 0px 0px;
+    padding: 0px 215.39px 0px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .www-netflix-com-by .link-7 {
+    padding: 0px 0.59px 0px 0px;
+    display: inline-flex;
+    flex-direction: column;
+    height: 16px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 2px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-47 {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 0px 1053.98px 0px 0px;
+    position: absolute;
+    top: 212px;
+    left: -48px;
+  }
+  
+  .www-netflix-com-by .div-default-ltr-48 {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+  }
+  
+  .www-netflix-com-by .div-8 {
+    display: flex;
+    width: 428px;
+    min-height: 20px;
+    position: absolute;
+    top: -1001px;
+    left: 0;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .text-wrapper-22 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-right: -0.06px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 97.3px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .div-9 {
+    display: flex;
+    width: 395px;
+    min-height: 20px;
+    padding: 3px 0px 4px;
+    position: absolute;
+    top: -999px;
+    left: 0;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .text-wrapper-23 {
+    margin-right: -0.47px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 89.6px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .div-10 {
+    display: flex;
+    width: 420px;
+    min-height: 20px;
+    padding: 2px 0px;
+    position: absolute;
+    top: -999px;
+    left: 0;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .text-wrapper-24 {
+    margin-right: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 95.5px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .div-11 {
+    display: flex;
+    width: 456px;
+    min-height: 20px;
+    position: absolute;
+    top: -1003px;
+    left: 0;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .text-wrapper-25 {
+    margin-right: -0.28px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 99.8px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .div-12 {
+    display: flex;
+    width: 406px;
+    min-height: 20px;
+    padding: 4px 0px 3px;
+    position: absolute;
+    top: -999px;
+    left: 0;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .text-wrapper-26 {
+    margin-right: -0.23px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 88.9px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .div-13 {
+    display: flex;
+    width: 420px;
+    min-height: 20px;
+    padding: 4px 0px 5px;
+    position: absolute;
+    top: -999px;
+    left: 0;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .www-netflix-com-by .text-wrapper-27 {
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 92px;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .www-netflix-com-by .iframe {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: -9px;
+    left: -9px;
+    border: 2px solid;
+    border-color: #9a9a9a;
+  }
+  
